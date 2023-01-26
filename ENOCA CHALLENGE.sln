@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ENOCA CHALLENGE", "ENOCA CHALLENGE\ENOCA CHALLENGE.csproj", "{06F3CBE1-9FE9-4531-9942-0E23E8CA3C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F3CBE1-9FE9-4531-9942-0E23E8CA3C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F3CBE1-9FE9-4531-9942-0E23E8CA3C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F3CBE1-9FE9-4531-9942-0E23E8CA3C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F3CBE1-9FE9-4531-9942-0E23E8CA3C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B1324A-BEA8-4FF6-BBE3-1615DB5B5D30}
+	EndGlobalSection
+EndGlobal
