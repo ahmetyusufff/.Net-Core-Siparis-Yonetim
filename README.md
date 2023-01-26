@@ -1,4 +1,4 @@
-# Sipariş Yönetim Servisi
+# Sipariş Yönetim Servisi (API)
 ## Teknolojiler
 ### .Net Core 6 API
 ### MSSQL
